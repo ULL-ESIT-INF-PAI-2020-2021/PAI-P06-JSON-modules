@@ -93,14 +93,14 @@ realizada:
 ```
 El número de rebotes es la suma de rebotes defensivos (`reboundsDefensive`) y ofensivos (`reboundsOffensive`).
 
-## Base con mejor porcentaje de tiros libres
-**4.-** El programa imprimirá el base (**Guard**, G), con el mejor porcentaje de tiros triples:
+## Escolta con mejor porcentaje de tiros libres
+**4.-** El programa imprimirá el Escolta (**Guard**, G), con el mejor porcentaje de tiros triples:
 
 ```
  * Guard (G) with highest 3 point percentage: Larry Bird at %50.00 (1/2)
 ```
 
-Se imprimirá el nombre del base (jugador que contenga "G" en `positionShort`) que haya intentado al menos un
+Se imprimirá el nombre del escolta (jugador que contenga "G" en `positionShort`) que haya intentado al menos un
 triple y que tenga el mayor porcentaje de triples en el juego.
 El porcentaje de triples es el número de triples logrados dividido por el número de los intentados.
 
